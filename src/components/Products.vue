@@ -29,5 +29,7 @@
 </script>
 
 <style scoped>
-
+  img {
+    width: 360px;
+  }
 </style>

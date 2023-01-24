@@ -121,9 +121,11 @@
 </script>
 
 <style scoped>
+  /* using: https://yeun.github.io/open-color/#lime */
   .home__view {
     display: flex;
     align-items: center;
+    flex-direction: column;
     gap: 5px;
   }
 
